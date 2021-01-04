@@ -8,3 +8,4 @@ Original file: https://github.com/google-ar/arcore-android-sdk/blob/master/asset
 Tutorial Youtube: https://www.youtube.com/watch?v=E_GSoGlK5yA
 
 
+![example](https://raw.githubusercontent.com/kosiara/google-ar-facemesh-3d/main/example_screenshot.png)
